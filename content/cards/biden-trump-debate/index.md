@@ -4,9 +4,6 @@ date: 2020-10-22T09:03:20-08:00
 draft: false
 
 summary: A bingo card generator for another dumpster fire.
-emojiTitle: 🇺🇸🇺🇸🇺🇸
-
-freeSpaceEmoji: 🇺🇸
 ---
 
 * "Tremendous"

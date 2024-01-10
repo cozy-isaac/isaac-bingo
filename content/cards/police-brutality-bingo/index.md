@@ -4,9 +4,6 @@ date: 2022-11-20T09:03:20-08:00
 draft: false
 
 summary: A bingo card generator for police brutality tropes.
-emojiTitle: 👮🚓🐷
-
-freeSpaceEmoji: 🇺🇸
 ---
 
 * "The officer feared for his/her life"
