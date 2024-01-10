@@ -64,7 +64,7 @@ params:
     #Content: Welcome to my bingo cards
 
   editPost:
-    URL: "https://github.com/isaac-8601/isaac-bingo/content"
+    URL: "https://github.com/isaac-8601/isaac-bingo/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
