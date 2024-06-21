@@ -50,7 +50,7 @@ function writeSquares() {
             message +=  freeSpaceEmoji + 'FREE<br />SPACE';
         }
         else {
-            message +=  shuffledArray[i].innerHTML;
+            message +=  i + shuffledArray.[i].innerHTML;
         }
 
         message += '</div></div></div></div>';

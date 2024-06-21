@@ -26,7 +26,7 @@ function shuffleArray(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
 
   // While there remain elements to shuffle...
-  while (0 !== currentIndex) {
+  while ( 0 !== currentIndex) {
 
     // Pick a remaining element...
     randomIndex = Math.floor(Math.random() * currentIndex);
@@ -43,8 +43,7 @@ function shuffleArray(array) {
 
 function writeSquares() {
     
-    var squares = $("li").toArray();
-
+    var squares = $(".bingo-card-list li").toArray();
     var shuffledArray = shuffleArray(squares);
 
 
@@ -59,7 +58,7 @@ function writeSquares() {
             message += 'FREE<br />SPACE';
         }
         else {
-            message +=  shuffledArray[i].innerHTML;
+            message +=squares[i].innerHTML;
         }
 
         message += '</div></div></div></div>';

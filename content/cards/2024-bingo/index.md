@@ -47,3 +47,6 @@ summary: Which of these things will happen in 2024?
 * Big protests in USA
 * Major hurricane
 * Ransomware attack on major company
+* GRRM's "Winds of Winter" gets a release date
+* Presidential campaign event in Fortnite
+* 90s child actor redemption arc
