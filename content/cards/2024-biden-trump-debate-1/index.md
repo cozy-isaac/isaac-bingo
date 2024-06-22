@@ -9,14 +9,14 @@ summary: Which of these dumb things will happen at the first 2024 debate?
 * "Malarkey"
 * Trump cuts off moderator before the question is asked.
 * Biden cuts off moderator before the question is asked.
-* Either candidate repeats the exact same word four times uninterrupted.
+* Either candidate repeats the exact same word three times uninterrupted.
 * Racist dogwhistle.
 * "The cities with the highest crime rates all have Democrat mayors!"
-* Biden discusses gun control, but it\'s not related to the moderator's question.
+* Gun control
+* Trump or Biden don't even try to answer a question posed to them.
 * "Anteefa"
 * Trump incoherently rants about a random food item.
-* Biden mentions Harris is a cop, in solidarity with cops, as if this is a good thing.
-* Biden has extremely tone-deaf hot take about police.
+* Candidate has extremely tone-deaf hot take about police.
 * Either candidate questions why we should bring race into a topic.
 * "Mainstream media"
 * Implying socialism is bad.
@@ -60,3 +60,16 @@ summary: Which of these dumb things will happen at the first 2024 debate?
 * Melania Trump mention.
 * January 6th
 * The war in Ukraine.
+* Xi Jinping
+* A candidate shouts something loud enough that it doesn't even matter that their mic was cut off.
+* Gaza ceasefire
+* Inflation
+* Supreme Court 
+* Artificial intelligence
+* Hunter Biden
+* Immigration
+* "Woke"
+* Building the wall
+* Mishandling classified documents
+* COVID-19
+* Mentions of pardons 
