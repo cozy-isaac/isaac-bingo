@@ -73,3 +73,5 @@ summary: Which of these dumb things will happen at the first 2024 debate?
 * Mishandling classified documents
 * COVID-19
 * Mentions of pardons 
+* RFK Jr mention
+* Brain worms.
