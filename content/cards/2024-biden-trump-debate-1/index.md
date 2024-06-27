@@ -75,3 +75,4 @@ summary: Which of these dumb things will happen at the first 2024 debate?
 * Mentions of pardons 
 * RFK Jr mention
 * Brain worms.
+* "Only I can fix it"
