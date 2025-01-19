@@ -1,0 +1,75 @@
+---
+title: "Trump Year 2025 Bingo"
+date: 2025-01-18T09:00:00-08:00
+draft: false
+
+summary: Which of these things will happen in the first terrible year of Trump's return?
+---
+
+- Nuclear weapon test or deployment
+- New Russian missile deployed
+- Trump fires Attorney General
+- DOJ indicts prominent Trump critic
+- Military deployed on US soil
+- Gaza peace deal falls apart
+- Elon Musk gets kicked out of Trump orbit
+- RFK Jr. denounced by Trump
+- Trump's administration leaks information to Russians
+- Melania not seen next to Trump for a month
+- Abortion restricted at federal level
+- Affordable Care Act severely limited or repealed
+- Travel bans on majority Muslim countries
+- Local police further militarized
+- Documented US citizen deported by mistake
+- More than 250 Jan 6th participants pardoned
+- Bans on diversity and anti-discrimination training
+- Trump appoints a Supreme Court justice
+- Reduced access to national parks
+- Clean energy programs cut to expand fossil fuels
+- Contraceptive access restricted
+- Gender-affirming care criminalized
+- Entitlement benefits cut
+- Department of Education abolished
+- Debt-ceiling vote at the very last minute
+- Trump meets with Kanye West
+- Trump calls for arrest of Kamala Harris
+- Biden dies
+- New tariffs on China
+- New tariffs on Mexico
+- New tariffs on Canada
+- Tariffs used as pressure to negotiate for Greenland
+- 25th Amendment in talks to be used
+- A deportation raid gets cancelled
+- EPA disbanded
+- House of Representatives sets new record without Speaker
+- Juneteenth holiday no longer federally recognized
+- Trump floats suspending or cancelling midterm elections
+- Trump pulls all support for Ukraine
+- China invades Taiwan
+- North Korea tests missiles
+- US pulls out of NATO
+- Unemployment at 9%
+- Trump golfs at least once a week for a month
+- Major news network/program surrenders in a Trump lawsuit
+- Major white-supremacist/neo-nazi rally (>1,000 people)
+- Laura Loomer seen in White House
+- Trump inflates event attendance
+- New Israeli Prime Minister
+- Ceasefire in Ukraine
+- Iran gets nuclear weapons capability
+- Trump creates Bitcoin reserve
+- Someone in Trump orbit hacked
+- Melania renegotiates prenuptial agreement again
+- Trump deports more than 450,000 people
+- Someone in the administration dies
+- Trump fires Rubio
+- House speaker vote of confidence
+- Elon Musk worth $500 billion
+- RFK Jr. caught eating more junk food
+- Trump goes after Hunter Biden
+- Trump gets his own 9/11-level event
+- Trump fires press secretary
+- Trump withholds aid from Democrats
+- Trump screws up natural disaster response
+- Attempted ban on birthright citizenship
+- Trump makes big claim about New Jersey drones

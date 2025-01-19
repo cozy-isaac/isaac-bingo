@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: Isaac's Bingo Cards
+title: Bingo Cards of Doom
 paginate: 5
 theme: PaperMod
 
@@ -30,6 +30,7 @@ params:
   disableScrollToTop: false
   comments: false
   hidemeta: false
+  hideFooter: true
   hideSummary: false
   showtoc: false
   tocopen: false
@@ -45,18 +46,14 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: Bingo Cards of Doom
+    subtitle: "A game for our predictions of the end times."
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Trump Year 2025 Bingo
+        url: cards/2025-politics-usa
+      - name: All Cards
+        url: cards
 
   # home-info mode
   homeInfoParams:
@@ -64,7 +61,7 @@ params:
     #Content: Welcome to my bingo cards
 
   editPost:
-    URL: "https://github.com/isaac-8601/isaac-bingo/tree/main/content"
+    URL: "https://github.com/cozy-isaac/isaac-bingo/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
